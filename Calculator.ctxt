@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=
+comment1.target=Calculator()
+comment2.params=
+comment2.target=void\ makeFrame()
+comment3.params=
+comment3.target=void\ makeButtons()
+comment4.params=
+comment4.target=void\ addButtons()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=c
+comment6.target=boolean\ isOperator(char)
+comment7.params=s
+comment7.target=boolean\ isNegativeNumber(java.lang.String)
+numComments=8
